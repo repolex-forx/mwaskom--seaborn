@@ -1,0 +1,11 @@
+{
+  "org": "mwaskom",
+  "repo": "seaborn",
+  "versions": [
+    {
+      "commit": "c1cb287835852406691aed60ea0c62710f2c6b18",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:37:17.822194+00:00"
+    }
+  ]
+}
