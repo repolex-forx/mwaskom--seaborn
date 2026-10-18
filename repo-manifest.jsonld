@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mwaskom/seaborn/commit/c1cb287835852406691aed60ea0c62710f2c6b18",
       "git:hexsha": "c1cb287835852406691aed60ea0c62710f2c6b18",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:37:17.821506+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mwaskom/seaborn/commit/96a5350005d07bcd84316dfe8a8d2032f90a647b",
